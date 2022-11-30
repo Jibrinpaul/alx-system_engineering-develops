@@ -1,0 +1,9 @@
+Esther@ubuntu:/tmp$ pwd 
+/tmp
+Esther@ubuntu:/tmp$ cd/var 
+Esther@ubuntu:/var$ pwd
+/var
+Esther@ubuntu:/var$ source./10-back
+/tmp
+Esther@ubuntu:/tmp$ pwd 
+/tmp
