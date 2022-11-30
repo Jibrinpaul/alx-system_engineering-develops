@@ -1,0 +1,9 @@
+$./4-listmorefiles
+Total 32
+drwxr-xr-x@ 3 sylvain staff 204 nov 30 12:09
+drwxr-xr-x@ 6 sylvain staff 1356 nov 30 12:59
+-rwxr-xr-x@ 1. Sylvain staff 30 nov 30 11:13 0-current_working_directory
+-rwxr-xr-x@ 1. Sylvain staff 30 nov 30 11:46 1-listit 
+-rwxr-xr-x@ 1. Sylvain staff 30 nov 30 11:30 2-bring_me_home
+-rwxr-xr-x@ 1. Sylvain staff 30 nov 30 11:50 3-listfiles 
+-rwxr-xr-x@ 1. Sylvain staff 30 nov 30 11:25 4-listmorefiles 
