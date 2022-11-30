@@ -1,0 +1,10 @@
+$./5-listdigitonly 
+Total 32
+drwxr-xr-x@ 6 501 20 204 nov 30 00:27.
+drwxr-xr-x@ 43 501 20 204 nov 30 00:35..
+rwxr-xr-x@ 1 501 20 18 nov 30 04:15-current_working_directory
+rwxr-xr-x@ 1 501 20 18 nov 30 00:25 1-listfiles 
+rwxr-xr-x@ 1 501 20 19 nov 30 00:30 2-bring_me_home 
+rwxr-xr-x@ 1 501 20 18 nov 30 00:00 3-listfiles 
+rwxr-xr-x@ 1 501 20 19 nov 30 00:12 4-listmorefiles 
+rwxr-xr-x@ 1 501 20 18 nov 30 04:37 5-listfilesdigitonly
