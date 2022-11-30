@@ -1,0 +1,8 @@
+Esther@ubuntu:/tmp$ pwd 
+/tmp 
+Esther@ubuntu:/tmp$ écho $home 
+/home/Esther 
+Esther@ubuntu:/tmp$ source./2-bring_me_home 
+Esther@Ubuntu:~$pwd 
+/home/Esther 
+Esther@ubuntu:/$
